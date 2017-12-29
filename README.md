@@ -12,5 +12,13 @@ Content of the CAS:
 • Übersicht der Entwicklungsumgebungen und Engineering Techniken (TDD, BDD etc.)<br/>
 • Einführung in LiveCode als Cross-Plattform Entwicklungsumgebung<br/>
 <br/>
-<b>App Engineering</b>
+<b>Requirement-Engineering und Projekt-Management</b><br/>
+• Agile App Entwicklung, der «Creativity-Design-Code» Ansatz, User-Interface, Prototyping<br/>
+• Projekt-Management, SCRUM, Agil, Wasserfall, Service Level Agreement<br/>
+<br/>
+<b>Animationen, Dynamik und Games</b><br/>
+• Business Intelligence Interface, Cockpits, I/O Widgets<br/>
+• Simulationen, visuelle Effekte, grafische Darstellungen, Animation, Gaming<br/>
+
+
 
